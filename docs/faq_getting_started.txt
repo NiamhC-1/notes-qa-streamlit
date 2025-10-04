@@ -1,0 +1,13 @@
+# Copilot FAQ - Getting Started
+
+Q: What is Microsoft Copilot?
+A: Copilot is an AI-powered assistant integrated into Microsoft 365 apps like Word, Excel, PowerPoint, Outlook, and Teams. It helps automate tasks, draft content, analyze data, and improve productivity.
+
+Q: How do I access Copilot?
+A: Copilot is available in the ribbon of Microsoft 365 applications. If enabled by your organization, you’ll see the Copilot icon. Click it to start.
+
+Q: Do I need special permissions?
+A: Yes. Your Microsoft 365 admin must enable Copilot for your account.
+
+Q: What kind of tasks can Copilot do?
+A: Drafting documents, summarizing emails, creating presentations, generating formulas in Excel, and assisting with Teams meetings.

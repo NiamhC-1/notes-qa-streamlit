@@ -1,0 +1,13 @@
+# Copilot FAQ - Copilot for Translation
+
+Q: Can Copilot translate text?
+A: Yes. Copilot can translate text across multiple languages within Word, Outlook, and Teams.
+
+Q: What languages does Copilot support?
+A: It supports over 100 languages, with the same coverage as Microsoft Translator.
+
+Q: Is translation secure?
+A: Yes. Translation is performed within Microsoft’s secure infrastructure and respects data compliance rules.
+
+Q: Can I use Copilot to translate meeting transcripts?
+A: Yes. Copilot can translate Teams transcripts and chat messages in real time for participants. You can even translate live in meeting using the new translate features.

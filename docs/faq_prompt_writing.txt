@@ -1,0 +1,13 @@
+# Copilot FAQ - Prompt Writing Guide
+
+Q: What is a good prompt?
+A: A good prompt is clear, specific, and action-oriented. Example: "Summarize this email in 3 bullet points" is better than "Summarize."
+
+Q: How can I improve Copilot’s responses?
+A: Use context. Instead of "Write me a report," try "Write a one-page summary on Q3 sales performance with key trends."
+
+Q: Can I iterate on prompts?
+A: Yes. You can refine prompts and ask Copilot to adjust tone, length, or focus.
+
+Q: Does Copilot learn my style?
+A: Copilot adapts to your inputs during a session but doesn’t permanently store personal writing styles.

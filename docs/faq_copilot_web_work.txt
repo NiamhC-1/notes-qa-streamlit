@@ -1,0 +1,10 @@
+# Copilot FAQ - Copilot for Web and Work
+
+Q: What is Copilot for Web?
+A: Copilot in Edge and Bing helps you search, summarize websites, generate drafts, and perform quick actions while browsing.
+
+Q: How does Copilot integrate with my work apps?
+A: In Word, Excel, and PowerPoint, Copilot helps draft, analyze, and create content. In Outlook, it can summarize threads and suggest replies.
+
+Q: Can Copilot be used in SharePoint and OneDrive?
+A: Yes. Copilot can search across your files and provide summaries and answers from your stored documents.

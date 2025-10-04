@@ -1,0 +1,13 @@
+# Copilot FAQ - Security and Privacy
+
+Q: Is Copilot secure?
+A: Copilot is built on Microsoft’s enterprise-grade security framework. It complies with GDPR, HIPAA, and other regulations.
+
+Q: Does Copilot share my data outside my organization?
+A: No. Copilot respects your organization’s compliance boundaries. Data is processed within Microsoft’s secure environment.
+
+Q: Can administrators control usage?
+A: Yes. Admins can manage access, enable/disable Copilot, and monitor usage through Microsoft 365 admin center.
+
+Q: How does Copilot handle sensitive information?
+A: Copilot adheres to the same privacy controls as Microsoft 365 apps. Sensitive data is not shared with other tenants.
